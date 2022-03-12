@@ -30,9 +30,9 @@ async def UploadVideo(bot: Client, cb: CallbackQuery, merged_vid_path: str, widt
                 ),
                 reply_markup=InlineKeyboardMarkup(
                     [
-                        [InlineKeyboardButton("Developer - @AbirHasan2005", url="https://t.me/AbirHasan2005")],
-                        [InlineKeyboardButton("Support Group", url="https://t.me/linux_repo"),
-                         InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")]
+                        [InlineKeyboardButton("Bot By - @Harshu_xD", url="https://t.me/harshu_xd")],
+                        [InlineKeyboardButton("Support", url="https://t.me/harshu_xd"),
+                         InlineKeyboardButton("Channel", url="https://t.me/StarterMods")]
                     ]
                 )
             )
@@ -51,9 +51,9 @@ async def UploadVideo(bot: Client, cb: CallbackQuery, merged_vid_path: str, widt
                 ),
                 reply_markup=InlineKeyboardMarkup(
                     [
-                        [InlineKeyboardButton("Developer - @AbirHasan2005", url="https://t.me/AbirHasan2005")],
-                        [InlineKeyboardButton("Support Group", url="https://t.me/linux_repo"),
-                         InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")]
+                        [InlineKeyboardButton("Bot By - @Harshu_xD", url="https://t.me/HARSHU_XD")],
+                        [InlineKeyboardButton("Support", url="https://t.me/HARSHU_XD"),
+                         InlineKeyboardButton("Channel", url="https://t.me/STARTERMODS")]
                     ]
                 )
             )
