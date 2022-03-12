@@ -1,6 +1,10 @@
 # VideoMerge-Bot
 This is very simple Telegram Videos Merge Bot by [@AbirHasan2005](https://t.me/AbirHasan2005). Using FFmpeg for Merging Videos.
 
+Note - This Repo Is Modified As Per My Needs. All Users Are Requested To Use Original Repo :)
+
+Modified By - [@Harshu_xD](https://t.me/harshu_xd)
+
 ## Features:
 - Merge Multiple Videos.
 - Permanent Custom Thumbnail Support.
@@ -9,12 +13,12 @@ This is very simple Telegram Videos Merge Bot by [@AbirHasan2005](https://t.me/A
 - Others check by your own feeling lazy to describe.
 
 ## Demo Bot:
-<a href="https://t.me/AH_VideoMergeBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/HMVideoMergeBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ### Deploy to Heroku:
 Just Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/VideoMerge-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HarshuXD/VideoMerge)
 
 ### Support Group:
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
